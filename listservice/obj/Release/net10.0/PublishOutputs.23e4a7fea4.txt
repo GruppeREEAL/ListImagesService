@@ -1,0 +1,9 @@
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\listservice.exe
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\appsettings.json
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\listservice.dll
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\listservice.deps.json
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\listservice.runtimeconfig.json
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\listservice.pdb
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\emann\OneDrive\Desktop\4.sem\IT-arkitektur opgaver\ListImagesService\listservice\bin\Release\net10.0\publish\Microsoft.OpenApi.dll
