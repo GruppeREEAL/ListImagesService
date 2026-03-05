@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/lukassloth/.nuget/packages/": {}
+    "C:\\Users\\emann\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukassloth/Private/Skole/4semester/itarkitektur/listimagesservice/listservice/listservice.csproj",
+      "projectUniqueName": "C:\\Users\\emann\\OneDrive\\Desktop\\4.sem\\IT-arkitektur opgaver\\ListImagesService\\listservice\\listservice.csproj",
       "projectName": "listservice",
-      "projectPath": "/Users/lukassloth/Private/Skole/4semester/itarkitektur/listimagesservice/listservice/listservice.csproj",
-      "packagesPath": "/Users/lukassloth/.nuget/packages/",
-      "outputPath": "/Users/lukassloth/Private/Skole/4semester/itarkitektur/listimagesservice/listservice/obj/",
+      "projectPath": "C:\\Users\\emann\\OneDrive\\Desktop\\4.sem\\IT-arkitektur opgaver\\ListImagesService\\listservice\\listservice.csproj",
+      "packagesPath": "C:\\Users\\emann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emann\\OneDrive\\Desktop\\4.sem\\IT-arkitektur opgaver\\ListImagesService\\listservice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/lukassloth/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\emann\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -149,7 +149,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
