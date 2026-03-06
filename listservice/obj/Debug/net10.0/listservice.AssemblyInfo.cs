@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("listservice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa8f1a7de63f4ec70bca8133f148ca7cb923848c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702daa3b86ce241babc80413b0ba0c3b8f1821ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("listservice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("listservice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
