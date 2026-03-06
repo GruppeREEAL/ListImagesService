@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rnmxMiiWESI=",
+  "dgSpecHash": "LA2sFIeJD1o=",
   "success": true,
-  "projectFilePath": "/Users/lukassloth/Private/Skole/4semester/itarkitektur/listimagesservice/listservice/listservice.csproj",
+  "projectFilePath": "C:\\Users\\emann\\OneDrive\\Desktop\\4.sem\\IT-arkitektur opgaver\\ListImagesService\\listservice\\listservice.csproj",
   "expectedPackageFiles": [
-    "/Users/lukassloth/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-    "/Users/lukassloth/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\emann\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\emann\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }
